@@ -4,6 +4,6 @@ import React from 'react'; // ✅ Required for JSX to work
 
 export default function Home() {
   return (
-    <h1>Issue Tracker Homepage</h1>
+    <h1>Welcome To Issue Tracker</h1>
   );
 } 
