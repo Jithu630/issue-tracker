@@ -1,9 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": ".",
-    "paths": {
-      "@/*": ["./*"]
-    },
+    "baseUrl": ".",         
     "jsx": "preserve"
   },
   "include": ["next-env.d.ts", "/.js", "/.jsx", "/.ts", "/.tsx"],
